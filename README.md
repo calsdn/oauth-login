@@ -4,10 +4,10 @@ A simple Node.js app demonstrating login using **Google** and **Facebook** with 
 
 ## Features
 
-- Google OAuth 2.0 login
-- Facebook OAuth 2.0 login
+- Google OAuth login
+- Facebook OAuth login
 - Express.js server with Passport.js integration
-- Environment variables managed securely with `.env`
+- Environment variables managed with `.env`
 
 ## Instructions
 
