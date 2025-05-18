@@ -9,7 +9,7 @@ A simple Node.js app demonstrating login using **Google** and **Facebook** with 
 - Express.js server with Passport.js integration
 - Environment variables managed securely with `.env`
 
-## 🛠 Getting Started
+## Instructions
 
 ### 1. Clone the repository
 
