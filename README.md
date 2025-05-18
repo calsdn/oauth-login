@@ -28,10 +28,10 @@ Create a `.env` file by copying the example:
 
 Then open the `.env` file and fill in your credentials:
 
-    GOOGLE_CLIENT_ID=your-google-client-id
-    GOOGLE_CLIENT_SECRET=your-google-client-secret
-    FACEBOOK_APP_ID=your-facebook-app-id
-    FACEBOOK_APP_SECRET=your-facebook-app-secret
+    GOOGLE_CLIENT_ID = your google client ID
+    GOOGLE_CLIENT_SECRET = your google client secret
+    FACEBOOK_APP_ID = your facebook app ID
+    FACEBOOK_APP_SECRET = your facebook app secret
 
 ### 4. Run the app
 
